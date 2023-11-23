@@ -192,12 +192,13 @@ The Gadilam River flows through the town of Cuddalore and separates the Old Town
 ```
 
 ## OUTPUT
-![Alt text](1.png)
-![Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
-![Alt text](5.png)
-![Alt text](6.png)
-![Alt text](7.png)
+![1](https://github.com/Sanjaichitra/NearMe/assets/144870518/40e83d96-8f5c-4a39-9a7e-376a191eda04)
+![2](https://github.com/Sanjaichitra/NearMe/assets/144870518/1d017f2c-d28f-449b-a313-1ed9032fbff6)
+![3](https://github.com/Sanjaichitra/NearMe/assets/144870518/e45357ac-3b3f-4b3f-9101-4a219c045a0a)
+![4](https://github.com/Sanjaichitra/NearMe/assets/144870518/7dd43a91-5bfb-4261-8cc4-380fef019a4c)
+![5](https://github.com/Sanjaichitra/NearMe/assets/144870518/16ecb7e0-084c-4573-b57e-a16d5b527f14)
+![6](https://github.com/Sanjaichitra/NearMe/assets/144870518/bf0ac9ca-c6fc-4700-bb21-bf712a3f7631)
+![7](https://github.com/Sanjaichitra/NearMe/assets/144870518/867ef4f0-e08d-4fc7-a2f3-2c49dcc0436b)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
